@@ -53,11 +53,13 @@ Users who wish to streamline their workflow by integrating terminal utilities in
 Clone the repository:
 
 git clone https://github.com/your-repo/JavaTerminal.git
+
 cd JavaTerminal
 
 Compile and run the program:
 
 javac JavaTerminal.java
+
 java JavaTerminal
 
 Note: Ensure you have JDK installed on your system.
