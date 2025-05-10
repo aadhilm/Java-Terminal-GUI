@@ -1,7 +1,7 @@
 # Java-Terminal-GUI
 
 [![Java Version](https://img.shields.io/badge/Java-17%2B-orange?logo=java)](https://www.java.com)
-[![GitHub license](https://img.shields.io/github/license/your-repo/Java-Terminal-GUI)](https://github.com/your-repo/Java-Terminal-GUI/blob/main/LICENSE)
+[![Apache License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GUI Terminal](https://img.shields.io/badge/GUI-Terminal-4EAA25?logo=terminal)](https://github.com/topics/terminal-emulator)
 [![System Tools](https://img.shields.io/badge/System-Tools-5391FE?logo=linux)](https://github.com/topics/system-tools)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/your-repo/Java-Terminal-GUI/pulls)
