@@ -1,71 +1,60 @@
 # Java-Terminal-GUI
-This Java program provides an enhanced GUI terminal application for users who wish to perform various file management, system monitoring, and network diagnostics tasks with a user-friendly interface.
 
-⚠️ Disclaimer:
+[![Java Version](https://img.shields.io/badge/Java-17%2B-orange?logo=java)](https://www.java.com)
+[![GitHub license](https://img.shields.io/github/license/your-repo/Java-Terminal-GUI)](https://github.com/your-repo/Java-Terminal-GUI/blob/main/LICENSE)
+[![GUI Terminal](https://img.shields.io/badge/GUI-Terminal-4EAA25?logo=terminal)](https://github.com/topics/terminal-emulator)
+[![System Tools](https://img.shields.io/badge/System-Tools-5391FE?logo=linux)](https://github.com/topics/system-tools)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/your-repo/Java-Terminal-GUI/pulls)
 
-We are not responsible for any kind of misuse or damage caused by this program.
-
+## ⚠️ Disclaimer
+**We are not responsible for any misuse or damage caused by this program.**  
 Use this tool at your own risk!
 
-🎯 Introduction :
+## 🎯 Introduction
+**Java-Terminal-GUI** is a feature-rich terminal emulator with graphical interface that combines:
+- System utilities
+- File management
+- Network diagnostics
+- Customization options
 
-This program is a versatile, feature-rich, and interactive terminal emulator that combines functional utilities with an aesthetic and engaging user interface. It is designed to enhance user productivity while providing tools for system management and entertainment.
+Designed for:
+- Developers and system administrators
+- Beginners learning terminal commands
+- Users wanting GUI convenience with terminal power
 
-It serves as both a learning platform and a practical utility for developers, administrators, and everyday users.
+## 🔧 Features
 
-🔧 Features:
+### 🎨 Fun & Customization
+- Interactive command history
+- Customizable color themes
+- Adjustable font sizes/styles
+- Real-time clock display
 
-Fun and Entertainment Tools :
+### 🌐 Network & System Tools
+- Direct shell command execution
+- Command output viewer
+- Network diagnostics interface
 
-Interactive History: Easily access previous commands.
+### 📁 File Management
+- Visual file browser with icons
+- Create/delete files and folders
+- Directory navigation
 
-Customizable Colors: Change text and background colors for personalization.
+## 📦 Installation
 
-Time and Date Display: Real-time updates with a button for displaying the current time and day.
-
-Network Tools :
-
-Command Execution: Execute shell commands directly.
-
-Output Viewer: Display results of executed commands in the GUI.
-
-File Management Tools :
-
-File List Viewer: Browse and manage files and directories with icons.
-
-Create/Delete Files: Quickly create or delete files and folders.
-
-System Monitoring Tools :
-
-Font Customization: Adjust font size and style for better readability.
-
-Real-time Date/Time Updates: View the current system time and date.
-
-This program is useful for :
-
-Developers and system administrators who need a GUI interface for basic file management and command execution.
-
-Beginners who want a safe and interactive environment to learn terminal commands.
-
-Users who wish to streamline their workflow by integrating terminal utilities into an intuitive GUI application.
-
-📦 Install Instructions:
+### Requirements
+- Java JDK 17 or newer
 
 Clone the repository:
-
-git clone https://github.com/your-repo/JavaTerminal.git
-
-cd JavaTerminal
-
-Compile and run the program:
-
+```bash
+git clone https://github.com/your-repo/Java-Terminal-GUI.git
+cd Java-Terminal-GUI
 javac JavaTerminal.java
-
 java JavaTerminal
+```
+### Note: Ensure you have JDK installed on your system.
 
-Note: Ensure you have JDK installed on your system.
-
-📋lTool Categories :
+## 📋Tool Categories :
 
 Fun and Entertainment Tools: Includes interactive history and customizable themes for user engagement.
 
@@ -75,11 +64,11 @@ File Management Tools: Create, delete, and browse files with ease.
 
 System Monitoring Tools: Adjust font and colors to optimize user experience.
 
-🗒 License :
+## 🗒 License :
 
 This project is open-source, licensed under [Apache License 2.0].
 
-🤝 Contributing :
+## 🤝 Contributing :
 
 Feel free to contribute to the repository by submitting issues or creating pull requests to add more features or improve functionality.
 
